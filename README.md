@@ -18,3 +18,7 @@ Python game for PyWeek 39 "downstream"
 ## Acknowledgments
 - "On Time" (instrumental) by John Legend and Metro Boomin
 - "Ienikaeru" from Shinsekai Yori
+
+## Screenshot
+<img width="900" alt="screenshot" src="https://github.com/user-attachments/assets/c6382b35-faaf-4bd6-8285-a861afe8a175" />
+
