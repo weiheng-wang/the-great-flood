@@ -3,6 +3,8 @@
 ## Description
 Python game for PyWeek 39 "downstream"
 
+Master the flood as a resource and weapon against enemies. Prepare for highly tactical gameplay.
+
 ## How to Play
 Run the game script:
    ```sh
