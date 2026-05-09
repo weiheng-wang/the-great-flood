@@ -1,7 +1,8 @@
 # The Great Flood
 
 ## Description
-Python game for PyWeek 39 "downstream"
+Python game for [PyWeek 39](https://pyweek.org/e/nomoregames/) (Theme: Downstream)<br>
+3rd Place Overall • 1st Place in Innovation
 
 Master the flood as a resource and weapon against enemies. Prepare for highly tactical gameplay.
 
